@@ -1,6 +1,6 @@
 {
   "name": "indexes-of-sorted",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "return all the indexes in a sorted array",
   "main": "index.js",
   "directories": {
